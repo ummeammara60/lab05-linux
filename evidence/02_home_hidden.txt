@@ -1,0 +1,14 @@
+total 52
+drwxr-x--- 8 ummeammara60 ummeammara60 4096 Oct 16 03:48 .
+drwxr-xr-x 3 root         root         4096 Sep 12 06:18 ..
+-rw------- 1 ummeammara60 ummeammara60  634 Oct  5 13:00 .bash_history
+-rw-r--r-- 1 ummeammara60 ummeammara60  220 Feb 13  2026 .bash_logout
+-rw-r--r-- 1 ummeammara60 ummeammara60 3771 Feb 13  2026 .bashrc
+drwx------ 3 ummeammara60 ummeammara60 4096 Oct  6 12:58 .cache
+-rw-rw-r-- 1 ummeammara60 ummeammara60  229 Oct 16 03:48 .gitconfig
+-rw-r--r-- 1 ummeammara60 ummeammara60  807 Feb 13  2026 .profile
+drwx------ 2 ummeammara60 ummeammara60 4096 Oct 16 03:41 .ssh
+drwxrwxr-x 3 ummeammara60 ummeammara60 4096 Oct  6 12:47 Assignment01
+drwxrwxr-x 3 ummeammara60 ummeammara60 4096 Oct  5 13:06 Gitea
+drwxrwxr-x 5 ummeammara60 ummeammara60 4096 Oct 16 03:49 lab05-linux
+drwxrwxr-x 2 ummeammara60 ummeammara60 4096 Sep 18 05:40 mylab
